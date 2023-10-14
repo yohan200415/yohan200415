@@ -9,6 +9,9 @@
   × https://g.dev/Yohanmaduranga
 - Stack Overflow profile
   × https://stackoverflow.com/users/20597680
+- Mastodon profile
+  ×
+<a rel="me" href="https://mastodon.social/@Yohanmaduranga">Mastodon</a>
 
 <!---
 yohan200415/yohan200415 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
